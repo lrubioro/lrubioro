@@ -1,4 +1,4 @@
-# Hi, I'm Lory! 
+# Hi, I'm Lory! >.<
 
 I'm a third-year Computer Engineering student passionate about understanding how hardware and software work together to create innovative solutions.
 
@@ -12,7 +12,7 @@ I enjoy applying engineering concepts beyond the classroom through hands-on proj
 - Computer Architecture
 - Hardware-Software Integration
 
-## Currently Working On
+## Currently Working On 🌱
 
 Assistive Phonics & Reading Device
 
