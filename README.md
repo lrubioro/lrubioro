@@ -18,19 +18,17 @@ Assistive Phonics & Reading Device
 
 Status: In Development
 
-Designing an assistive reading device to help children with dyslexia develop phonics and pronunciation skills.
-
-The project aims to integrate embedded systems, speech recognition, and text-to-speech technology to create an interactive learning experience.
+Designing an assistive reading device to help children with dyslexia develop phonics and pronunciation skills. Through an interactive learning experience.
 
 Planned Features:
 
-Phoneme-by-phoneme word pronunciation
+- Phoneme-by-phoneme word pronunciation
 
-Speech recognition and pronunciation feedback
+- Speech recognition and pronunciation feedback
 
-Personalized tracking of challenging words
+- Personalized tracking of challenging words
 
-Interactive hardware and software integration
+- Interactive hardware and software integration
 
 Areas of Focus: Embedded Systems, Python, Speech Processing, Assistive Technology
 
