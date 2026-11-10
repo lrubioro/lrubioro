@@ -1,7 +1,5 @@
 # Hi, I'm Lory! 
 
-###  Computer Engineering Student | Embedded Systems | Hardware Design
-
 I'm a third-year Computer Engineering student passionate about understanding how hardware and software work together to create innovative solutions.
 
 My interests include **embedded systems, computer architecture, microprocessor design, and hardware-software integration**.
